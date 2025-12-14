@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夏を書き留める",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-14T14:42:06.227279Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏を書き留める",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/01_夏を書き留める_ロクデナシ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏を書き留める",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_夏を書き留める_ロクデナシ.txt"
+    }
+  ]
+}
